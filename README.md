@@ -1,2 +1,2 @@
-# React-thunks-TodoList-With-Authentication
+# Todo-List-Uding-Redux-Thunk
 Created with CodeSandbox
